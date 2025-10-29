@@ -5,6 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestVehicle(FrappeTestCase):
+class TestRideOrder(FrappeTestCase):
 	pass
-
